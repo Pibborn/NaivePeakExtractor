@@ -3,7 +3,6 @@ import matplotlib as mpl
 import matplotlib.pyplot as p
 import argparse as arg
 import os.path
-import math
 from scipy import stats
 
 class Peak:
