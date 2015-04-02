@@ -2,12 +2,13 @@
 a naive peak magnitude spectrogram extractor, written in python. it takes a Yaafe magnitude spectrum analysis as input, and shows a magnitude spectrogram and its peaks.
 
 ## dependencies
+- `python 2.7`
 - `scipy`
 - `matplotlib`
 - `numpy`
 
 ## usage
-run `NaivePeakExtractor.py analysis-files/[any file]`, or provide your own Yaafe spectral magnitude analysis file.
+run `python NaivePeakExtractor.py analysis-files/[any file]`, or provide your own Yaafe spectral magnitude analysis file.
 
 ## q&a
 - those .csv files are huge!
